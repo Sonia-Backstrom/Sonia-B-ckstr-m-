@@ -19,6 +19,7 @@ Core Math: Statistics, Linear Algebra, Optimization
 
 📊 Building my data science portfolio
 🎓 Completing my Master's degree in Computational Mathematics
+
 🇸🇪 Learning Swedish
 
 
